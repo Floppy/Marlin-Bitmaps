@@ -12,4 +12,6 @@ Pull requests are welcomed:
   * Include an image of the resulting display in the PR
   * If you can, include an ASCII Art version of the image in the code - the generator tool can do this for you.
 
+By submitting a PR, you agree that your file can be released under the MIT open source license, and can be reused for any purpose without restriction.
+
 No offensive or NSFW images will be accepted. See CODE_OF_CONDUCT.md for more information.
