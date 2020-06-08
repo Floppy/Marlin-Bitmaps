@@ -6,4 +6,4 @@ This repository is an attempt to create an archive of boot and status graphics f
 
 Pull requests are welcomed - please add your header file to the appropriate directory with a unique name, and include an image of the resulting display in the PR.
 
-No offensive or NSFW images will be accepted. See CONTRIBUTING.md for more information.
+No offensive or NSFW images will be accepted. See CONTRIBUTING.md and CODE_OF_CONDUCT.md for more information.
