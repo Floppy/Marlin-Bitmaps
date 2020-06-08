@@ -8,7 +8,7 @@ This repository is an attempt to create an archive of boot and status graphics f
 
 Pull requests are welcomed:
 
-  * Please add your header file to the appropriate directory with a unique name
+  * Please add your Marlin 2 compatible header file to the appropriate directory with a unique name
   * Include an image of the resulting display in the PR
   * If you can, include an ASCII Art version of the image in the code - the generator tool can do this for you.
 
@@ -19,3 +19,5 @@ No offensive or NSFW images will be accepted. See CODE_OF_CONDUCT.md for more in
 ## Usage
 
 Copy the file you want to `Marlin/_Bootscreen.h` or `Marlin/_Statusscreen.h` as appropriate. See https://marlinfw.org/docs/configuration/configuration.html#firmware-info for more details.
+
+If you are using Marlin 1.x, you may need to convert the files to work. You can paste the content into https://marlinfw.org/tools/u8glib/converter.html to do this.
