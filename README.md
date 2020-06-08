@@ -4,6 +4,8 @@
 
 This repository is an attempt to create an archive of boot and status graphics for use with Marlin.
 
+## Contributing
+
 Pull requests are welcomed:
 
   * Please add your header file to the appropriate directory with a unique name
