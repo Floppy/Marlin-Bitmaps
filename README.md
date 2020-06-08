@@ -8,7 +8,9 @@ This repository is an attempt to create an archive of boot and status graphics f
 
 Pull requests are welcomed:
 
+  * Fork the repository
   * Please add your Marlin 2 compatible header file to the appropriate directory with a unique name
+  * Commit the files and open a [new pull request](https://github.com/Floppy/Marlin-Bitmaps/pulls)
   * Include an image of the resulting display in the PR
   * If you can, include an ASCII Art version of the image in the code - the generator tool can do this for you.
 
