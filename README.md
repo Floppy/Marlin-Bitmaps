@@ -23,3 +23,12 @@ No offensive or NSFW images will be accepted. See CODE_OF_CONDUCT.md for more in
 Copy the file you want to `Marlin/_Bootscreen.h` or `Marlin/_Statusscreen.h` as appropriate. See https://marlinfw.org/docs/configuration/configuration.html#firmware-info for more details.
 
 If you are using Marlin 1.x, you may need to convert the files to work. You can paste the content into https://marlinfw.org/tools/u8glib/converter.html to do this.
+
+## Installing Marlin itself
+
+There are so many machines that run Marlin that adding instructions on how to install firmware for each of them here would be pointless. However, you can almost certainly find instructions by searching for `marlin upgrade {your_printer}`. 
+
+Having said that, they're reasonably similar, so here are some links that will probably help you get started:
+
+ * The Marlin [installation instructions](https://marlinfw.org/docs/basics/install.html)
+ * A video overview of the process for an Ender 3 from Teaching Tech: https://www.youtube.com/watch?v=N7JLchsFRDU
